@@ -1,5 +1,5 @@
-# Task-3-Energy-Consumption-Forecasting
-# Energy Consumption Time Series Forecasting
+# Task-3-Energy-Consumption-Time-Series-Forecasting
+
 
 ## 🎯 Objective
 Forecast short-term household energy usage using historical data.
